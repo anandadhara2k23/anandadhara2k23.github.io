@@ -145,23 +145,23 @@ body {
     grid-column-end: 7;
 }
 .gallery-2 {
-    background-image: url('../images/gallery/37.jpg');
+    background-image: url('../images/gallery/two.jpg');
     grid-column-start: 8;
     grid-row-start: 5;
 }
 .gallery-3 {
-    background-image: url('../images/gallery/3.jpg');
+    background-image: url('../images/gallery/three.jpg');
     grid-column-start: 10;
     grid-column-end: 12;
     grid-row-start: 5;
 }
 .gallery-4 {
-    background-image: url('../images/gallery/96.jpg');
+    background-image: url('../images/gallery/four.jpg');
     grid-column-start: 8;
     grid-row-start: 7;
 }
 .gallery-5 {
-    background-image: url('../images/gallery/5.jpg');
+    background-image: url('../images/gallery/five.jpg');
     grid-column-start: 10;
     grid-column-end: 12;
     grid-row-start: 7;
@@ -172,7 +172,7 @@ body {
     grid-column-start: 4;
 }
 .gallery-7 {
-    background-image: url('../images/gallery/39.jpg');
+    background-image: url('../images/gallery/six.jpg');
     grid-row-start: 9;
     grid-column-start: 6;
 }
@@ -182,7 +182,7 @@ body {
     grid-column-start: 8;
 }
 .gallery-9 {
-    background-image: url('../images/gallery/78.jpg');
+    background-image: url('../images/gallery/seven.jpg');
     grid-row-start: 9;
     grid-column-start: 10;
     grid-column-end: 12;
@@ -193,7 +193,7 @@ body {
     grid-column-start: 4;
 }
 .gallery-11 {
-    background-image: url('../images/gallery/11.jpg');
+    background-image: url('../images/gallery/eight.jpg');
     grid-row-start: 11;
     grid-column-start: 6;
 }
@@ -210,7 +210,7 @@ body {
     grid-column-start: 4;
 }
 .gallery-14 {
-    background-image: url('../images/gallery/43.jpg');
+    background-image: url('../images/gallery/nine.jpg');
     grid-row-start: 13;
     grid-column-start: 6;
 }

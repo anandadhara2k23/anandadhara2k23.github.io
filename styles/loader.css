@@ -35,6 +35,10 @@
 }
 
 #oasis-date {
+    font-size: 2vh;
+}
+#oasis-title
+{
     font-size: 3vh;
 }
 
@@ -1249,3 +1253,22 @@ all and (max-height: 600px) and (orientation: landscape) {
         margin-top: 50px;
     }
 }
+/* Media query for Oppo F15 */
+
+@media only screen and (max-width: 768px) {
+    /* Add your CSS rules here for devices with a maximum width of 768 pixels */
+    /* For example: */
+    #oasis-title
+    {
+        font-size: 3vh;
+    }
+    #oasis-date
+    {
+        font-size: 4vh;
+    }
+    #oasis-slogan
+    {
+        font-size: 2vh;
+    }
+  }
+  

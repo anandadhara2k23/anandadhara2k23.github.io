@@ -6,17 +6,17 @@ const eventsNames = [
     'Cricket',
     'Vollyball',
     'Football',
-    'Music',
-    'Photography',
-    'Fashion',
-    'Cooking',
-    'Quiz',
-    'Badminton',
-   'NFS most wanted',
-   'CS 1.6',
-    'T-Shirt Painting',
-     'Carrom',
-    ' '
+    'Band',
+//     'Photography',
+//     'Fashion',
+//     'Cooking',
+//     'Quiz',
+//     'Badminton',
+//    'NFS most wanted',
+//    'CS 1.6',
+//     'T-Shirt Painting',
+//      'Carrom',
+//     ' '
 ];
 
 function fetchEvents() {

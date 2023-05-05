@@ -137,9 +137,9 @@
         font-size: 2.5em;
     }
     .cards-container {
-        height: 60vh;
+        height: 30vh;
         margin-top: 5vh;
-        width: 95vw;
+        width: 45vw;
         position: relative;
     }
     .cards-container>.cards {

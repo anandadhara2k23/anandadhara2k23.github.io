@@ -119,8 +119,28 @@
     display: none;
 }
 
+.mobile-register {
+    display: block;
+    font-size: 1.75rem;
+    font-family: "google sans";
+    margin-top: 10vh;
+    /* left: 32.6vw; */
+    /* margin-left: calc(10vw + 25vh);
+    position: absolute;
+    bottom: 17.5vh;
+    z-index: 16; */
+    /* left: calc(50vw - 70px); */
+    opacity: 0;
+}
 
-
+.mobile-register a {
+    color: #fff;
+    padding: 24px 48px;
+    background: url('../images/assets/register.png');
+    background-size: 100% 100%;
+    border-radius: 35px;
+    letter-spacing: 2px;
+}
 
 .nav-item {
     color: white;
@@ -284,55 +304,13 @@
     display: none;
 }
 
-/* Hide favicon on desktop screens */
-@media only screen and (min-width: 768px) {
-  .oasis-landing {
-    display: none;
-  }
-}
-
-/* Show favicon on mobile screens */
-@media only screen and (max-width: 767px) {
-  .oasis-landing {
-    display: flex;
-    justify-content: flex-start;
-    
-  }
-  .oasis-landing-container img
-  {
-    height: 40px;
-    width: auto;
-    
-  }
-  
-}
 
 
 
 @media all and (max-width: 500px) {
     .landing-wrapper {
-        background: url("../images/assets/mobile-home.png");
+        background: url("../images/assets/landing-mobile.jpg");
         background-size: 100% 100%;
-        /* padding-right: 3vh; */
-    }
-    .cards-container
-    {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .cards-container iframe
-    {
-        height: 20vh;
-        width: 30vh;
-        
-        /* margin: 0 0; */
-        /* position: absolute; */
-        /* top: 50%; */
-        /* left: 50%; */
-        /* transform: translate(-50%,-50%); */
-
-
     }
     .mousey {
         display: none;

@@ -119,28 +119,8 @@
     display: none;
 }
 
-.mobile-register {
-    display: block;
-    font-size: 1.75rem;
-    font-family: "google sans";
-    margin-top: 10vh;
-    /* left: 32.6vw; */
-    /* margin-left: calc(10vw + 25vh);
-    position: absolute;
-    bottom: 17.5vh;
-    z-index: 16; */
-    /* left: calc(50vw - 70px); */
-    opacity: 0;
-}
 
-.mobile-register a {
-    color: #fff;
-    padding: 24px 48px;
-    background: url('../images/assets/register.png');
-    background-size: 100% 100%;
-    border-radius: 35px;
-    letter-spacing: 2px;
-}
+
 
 .nav-item {
     color: white;
